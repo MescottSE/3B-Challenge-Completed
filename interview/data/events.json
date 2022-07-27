@@ -1,0 +1,167 @@
+[
+  {
+    "id": "1",
+    "title": "Teleman Tickets",
+    "location": "Concorde 2, Brighton",
+    "date": "Monday, 20 Feb 2017",
+    "time": "8:00 PM",
+    "url": "http://www.seetickets.com/event/teleman/concorde-2-brighton/1046816",
+    "geo": {
+      "lat": "50.81732179999999",
+      "lng": "-0.12304610000001048"
+    },
+    "tags": [
+      "rock", 
+      "alternative", 
+      "indie"
+    ]
+  },
+  {
+    "id": "2",
+    "title": "The Vamps",
+    "location": "Sheffield Arena, Sheffield",
+    "date": "Friday, 28 Apr 2017",
+    "time": "6:30 PM",
+    "url": "http://www.seetickets.com/event/the-vamps/sheffield-arena-sheffield/1044690",
+    "geo": {
+      "lat": "53.40001609999999",
+      "lng": "-1.4189068000000589"
+    },
+    "tags": [
+      "pop",
+      "indie-pop"
+    ]
+  },
+  {
+    "id": "3",
+    "title": "Take That",
+    "location": "The SSE Hydro, Glasgow",
+    "date": "Thursday, 11 May 2017",
+    "time": "6:30 PM",
+    "url": "http://www.seetickets.com/event/take-that/the-sse-hydro-glasgow/1038607",
+    "geo": {
+      "lat": "55.860156",
+      "lng": "-4.285257999999999"
+    },
+    "tags": [
+      "pop",
+      "boy-band"
+    ]
+  },
+  {
+    "id": "4",
+    "title": "Blink-182",
+    "location": "Motorpoint Arena, Cardiff",
+    "date": "Monday, 03 Jul 2017",
+    "time": "6:00 PM",
+    "url": "http://www.seetickets.com/event/blink-182/motorpoint-arena-cardiff/1041225",
+    "geo": {
+      "lat": "51.47893740000001",
+      "lng": "-3.1717228999999634"
+    },
+    "tags": [
+      "rock",
+      "metal"
+    ]
+  },
+    {
+    "id": "5",
+    "title": "De La Soul And The Anonymous Nobody",
+    "location": "The Roundhouse, London",
+    "date": "Friday, 10 Mar 2017",
+    "time": "7:00 PM",
+    "url": "http://www.seetickets.com/event/de-la-soul-and-the-anonymous-nobody/the-roundhouse-london/1042910",
+    "geo": {
+      "lat": "51.54340999999999",
+      "lng": "-0.1518045999999913"
+    },
+    "tags": [
+      "dance-and-clubs",
+      "rap",
+      "hip-hop"
+    ]
+  },
+    {
+    "id": "6",
+    "title": "Sum 41",
+    "location": "O2 Academy Leeds, Leeds",
+    "date": "Sunday, 26 Feb 2017",
+    "time": "7:00 PM",
+    "url": "http://www.seetickets.com/event/sum-41/o2-academy-leeds-leeds/1033491",
+    "geo": {
+      "lat": "53.8021884",
+      "lng": "-1.5471377000000075"
+    },
+    "tags": [
+      "rock", 
+      "alternative", 
+      "indie"
+    ]
+  },
+  {
+    "id": "7",
+    "title": "Ladyhawke",
+    "location": "Manchester Academy 3, Manchester",
+    "date": "Saturday, 11 Feb 2017",
+    "time": "7:30 PM",
+    "url": "http://www.seetickets.com/event/ladyhawke/manchester-academy-3-manchester/1025270",
+    "geo": {
+      "lat": "53.4584061",
+      "lng": "-2.2322037000000137"
+    },
+    "tags": [
+      "pop",
+      "solo-female"
+    ]
+  },
+  {
+    "id": "8",
+    "title": "Ghost",
+    "location": "O2 Forum Kentish Town, London",
+    "date": "Sunday, 26 Mar 2017",
+    "time": "7:00 PM",
+    "url": "http://www.seetickets.com/event/ghost/o2-forum-kentish-town-london/1047608",
+    "geo": {
+      "lat": "51.55219700000001",
+      "lng": "-0.14196900000001733"
+    },
+    "tags": [
+      "rock", 
+      "alternative", 
+      "indie"
+    ]
+  },
+    {
+    "id": "9",
+    "title": "Olly Murs",
+    "location": "Newcastle Metro Radio Arena, Newcastle",
+    "date": "Monday, 06 Mar 2017",
+    "time": "6:00 PM",
+    "url": "http://www.seetickets.com/event/olly-murs/newcastle-metro-radio-arena-newcastle/1018007",
+    "geo": {
+      "lat": "54.9637977",
+      "lng": "-1.6232821999999487"
+    },
+    "tags": [
+      "pop",
+      "club"
+    ]
+  },
+    {
+    "id": "10",
+    "title": "Courteeners",
+    "location": "Emirates Old Trafford, Lancashire C.C.C",
+    "date": "Saturday, 27 May 2017",
+    "time": "4:00 PM",
+    "url": "http://www.seetickets.com/event/courteeners/emirates-old-trafford-lancashire-c-c-c/1034018",
+    "geo": {
+      "lat": "53.456428",
+      "lng": "-2.2867969999999787"
+    },
+    "tags": [
+      "rock", 
+      "alternative", 
+      "indie"
+    ]
+  }
+]

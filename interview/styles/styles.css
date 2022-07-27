@@ -1,0 +1,147 @@
+#mapid{
+    height:380px; 
+    border-radius: 6px;
+}
+
+html{
+    overflow-x: hidden;
+}
+
+.nav-bar{
+    width:100vw;
+    box-shadow: 0px 5px #bbbbbb;
+    padding: 0 10%;
+}
+
+#logo{
+    width: 70px;
+    padding: 5px;
+}
+
+.main-body{
+    padding: 0 10%;
+    background-color: #e8e8e8;
+    height:100vh;
+}
+
+.main-panel{
+    width:100%;
+    margin:25px 0 0 0;
+}
+
+.articles-head{
+    background-color: #8a8d08;
+    height:45px;
+    padding:5px 5px 5px 25px;
+    color:white;
+    display: flex;
+    align-items: center;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.articles-body{
+    background-color:white;
+    padding:15px;
+    height:675px;
+    overflow: scroll;
+    overflow-x: hidden;
+}
+
+.events-panel{
+    background-color:#f8f8f8;
+    overflow: scroll;
+    height:720px;
+    overflow-x: hidden;
+}
+
+.events-head{
+    height:45px;
+    padding:5px 5px 5px 25px;
+    display: flex;
+    align-items: center;
+    font-weight: bold;
+    font-size:20px;
+}
+
+.event-body{
+    
+}
+
+.events-body{
+    background-color:#f8f8f8;
+    height:675px;
+}
+
+.nopadding{
+    padding:0 !important;
+    border-bottom: 3px solid lightgray;
+}
+
+.article-body{
+    width:100%;
+    /* min-height: 300px; */
+    margin-bottom: 30px;
+    box-shadow: 0px 3px #f2f2f2;
+    border-bottom: 2px solid #e7e7e7;
+}
+
+.article-title{
+    border-top: 5px solid #8a8d08;
+    border-bottom: 5px solid #8a8d08;
+    border-left: 2px solid #e7e7e7;
+    border-right: 2px solid #e7e7e7;
+    font-weight: bold;
+    font-size: 16px;
+    padding:10px;
+    max-height:43px;
+}
+
+.article-image{
+    width:100%;
+    object-fit: contain;
+    border-left: 2px solid #e7e7e7;
+    border-right: 2px solid #e7e7e7;
+}
+
+.article-content-container{
+    height:95px;
+    overflow: hidden;
+    border-left: 2px solid #e7e7e7;
+    border-right: 2px solid #e7e7e7;
+    padding:10px;
+}
+
+.article-content{
+    font-weight: bold;
+}
+
+.events-body{
+    height:fit-content;
+}
+
+.event-panel{
+    margin:25px;
+    height: 95px;
+    background-color: white;
+    border-bottom: 3px solid lightgray;
+    padding:10px;
+}
+
+.event-title{
+    font-weight: bold;
+    color:#8a8d08;
+    font-size:16px;
+    text-overflow: "-";
+    overflow: hidden;
+    white-space: nowrap;
+}
+
+.event-title:hover{
+    text-overflow: inherit;
+    overflow: visible;
+}
+
+.bold-me{
+    font-weight: bold;
+}
